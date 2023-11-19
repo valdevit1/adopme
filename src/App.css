@@ -8,6 +8,8 @@
 
 .card {
   padding: 2em;
+  border: 2px solid;
+  border-radius: 3%;
 }
 
 header {

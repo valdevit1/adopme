@@ -2,7 +2,7 @@ import Badge from "react-bootstrap/Badge";
 
 function Tags(props) {
   return (
-    <Badge bg={props.color}>
+    <Badge backgroundColor={props.color}>
       {props.tagsnombre}
       {props.nombre}
     </Badge>
